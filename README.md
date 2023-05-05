@@ -1,6 +1,6 @@
 # poj_zjazd4
 
-zadanie ze zjazdu czwartego
+zadania ze zjazdu czwartego
 
 Zadanie 4.1:
 -Circle.java
